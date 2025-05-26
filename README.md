@@ -1,4 +1,4 @@
-//# Documentación de la Aplicación de Gestión Veterianaria
+# Documentación de la Aplicación de Gestión Veterianaria
 ________________________________________________________
 
 # Índice
