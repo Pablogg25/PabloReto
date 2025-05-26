@@ -46,6 +46,7 @@ ______________________________________________________________________
 Veterinario     Gestiona citas, consulta historiales emite recetas.    ______________________________________________________________________
 Administrador   Administra personal, informes y facturación.
 
+
 Lo representamos a traves del siguiente diagrama de casos de uso:
 
 ![alt text](/Entornos/Diagrama_Casos_Uso.PNG)
