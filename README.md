@@ -4,7 +4,7 @@ ________________________________________________________
 # Índice
 
    - [Documentación de la Aplicación de Gestión Veterinaria](/README.md)
-        - [Indice](#indice)
+        - [Indice](#índice)
         - [Introducción](#intruducción)
         - [Instalación](/README.md)
         - [Uso](/README.md)
