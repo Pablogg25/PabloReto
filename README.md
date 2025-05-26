@@ -61,4 +61,4 @@ El sistema veterinario incluye las siguientes funcionalidades principales:
 Este proyecto está subvencionadp por el [Gobierno de España](https://www.google.com).
 _________________________________________________________________________
 Para obtener más información sobre la aplicación y su funcionamiento interno consulta nuestra [documentación tecnica](/documentacion-tecnica.md).
-![alt text](https://wwww.educantabria.es/documents/8911298/8913497/logoIESMHP.png)        
+![alt text](https://www.educantabria.es/documents/8911298/8913497/logoIESMHP.png/9e9ecc59-329b-3369-b5b5-1929f670eb01?t=1666706242951)        
