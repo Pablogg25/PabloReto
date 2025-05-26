@@ -35,6 +35,9 @@ El sistema veterinario incluye las siguientes funcionalidades principales:
 - Revisión de informes.
 - Gestión de facturas.
 
+Para utilizar la aplicación sigue las siguientes instrucciones proporcionadas en la interfaz de usuario o consulta la documentación del usuario incluida en el repositorio.
+
+A continuación se detalla la función dentro del sistema de cada uno de los usuarios:
 
 
     **Usuario**    **Funcionalidad**
