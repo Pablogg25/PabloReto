@@ -2,5 +2,5 @@
 ________________________________________________________
 **Índice
 
-    -[Documentación de la Aplicación de Gestión Veterinaria](/README.md)
+    [Documentación de la Aplicación de Gestión Veterinaria](/README.md)
         - 
