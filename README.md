@@ -10,4 +10,16 @@ ________________________________________________________
         - [Uso](/README.md)
         - [Contribución](/README.md)
         - [Subvención](/README.md)
+
+# Intruducción
+El Sistema de Gestión Veterinaria desarrollado por el alumnado del **IES Miguel Herrero** permite a pacientes, médicos y administradores gestionar las operaciones básicas de un centro veterinario de forma segura y eficiente.
+
+# Instalación
+
+# Uso
+
+# Contribución
+
+# Subvención
+
         
