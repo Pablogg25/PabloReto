@@ -17,12 +17,12 @@ El Sistema de Gestión Veterinaria desarrollado por el alumnado del **IES Miguel
 # Instalación
 Para instalar  configurar la aplicación en tu entorno local, sigue los siguientes pasos:
 
-    1. [Clona el repositiorio desde GitHub:]
+ 1. [Clona el repositiorio desde GitHub:]
     git clone https://github.com/Pablogg25/PabloReto.git
 
-    2. [Abre el proyecto en tu entorno de desarrollo preferido(VSCode, InteliJ...).]
+ 2. [Abre el proyecto en tu entorno de desarrollo preferido(VSCode, InteliJ...).]
 
-    3. [Compila y ejecuta el proyecto.]
+ 3. [Compila y ejecuta el proyecto.]
 # Uso
 El sistema veterinario incluye las siguientes funcionalidades principales:
     - Solicitud y gestión de citas.
