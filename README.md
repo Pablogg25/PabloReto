@@ -36,6 +36,7 @@ El sistema veterinario incluye las siguientes funcionalidades principales:
 - Gestión de facturas.
 
 
+
     **Usuario**    **Funcionalidad**
     _______________________________________________________________________
     Paciente        Solicita citas, accede a su historial, contacta con el médico.
