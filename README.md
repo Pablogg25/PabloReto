@@ -15,7 +15,9 @@ ________________________________________________________
 El Sistema de Gestión Veterinaria desarrollado por el alumnado del **IES Miguel Herrero** permite a pacientes, médicos y administradores gestionar las operaciones básicas de un centro veterinario de forma segura y eficiente.
 
 # Instalación
-Para instalar  confi
+Para instalar  configurar la aplicación en tu entorno local, sigue los siguientes pasos:
+    1. Clona el repositiorio desde GitHub:
+        [git clone https://github.com/Pablogg25/PabloReto.git]
 # Uso
 
 # Contribución
