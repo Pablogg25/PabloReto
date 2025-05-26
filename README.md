@@ -45,8 +45,8 @@ El sistema veterinario incluye las siguientes funcionalidades principales:
     Administrador Administra personal, informes y facturación.
 
     Lo representamos a traves del siguiente diagrama de casos de uso:
-    
-    ![alt text](image.png)
+
+    ![alt text](/Entornos/image.png)
 # Contribución
 
 # Subvención
