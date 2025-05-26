@@ -17,7 +17,7 @@ El Sistema de Gestión Veterinaria desarrollado por el alumnado del **IES Miguel
 # Instalación
 Para instalar  configurar la aplicación en tu entorno local, sigue los siguientes pasos:
     1. Clona el repositiorio desde GitHub:
-        [git clone https://github.com/Pablogg25/PabloReto.git]
+    - [git clone https://github.com/Pablogg25/PabloReto.git]
 # Uso
 
 # Contribución
