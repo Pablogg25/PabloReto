@@ -24,6 +24,7 @@ Para instalar  configurar la aplicación en tu entorno local, sigue los siguient
  2. Abre el proyecto en tu entorno de desarrollo preferido(VSCode, InteliJ...).
 
  3. Compila y ejecuta el proyecto.
+
 # Uso
 El sistema veterinario incluye las siguientes funcionalidades principales:
 
@@ -51,6 +52,7 @@ A continuación se detalla la función dentro del sistema de cada uno de los usu
     Lo representamos a traves del siguiente diagrama de casos de uso:
 
     ![alt text](/Entornos/Diagrama_Casos_Uso.PNG)
+    
 # Contribución
 
 ¿Quieres colaborar en el desarrollo?
