@@ -39,6 +39,7 @@ El sistema veterinario incluye las siguientes funcionalidades principales:
 Para utilizar la aplicación sigue las siguientes instrucciones proporcionadas en la interfaz de usuario o consulta la documentación del usuario incluida en el repositorio.
 
 A continuación se detalla la función dentro del sistema de cada uno de los usuarios:
+
 **Usuario**    **Funcionalidad**
 ______________________________________________________________________
 Paciente        Solicita citas, accede a su historial, contacta con el médico.
