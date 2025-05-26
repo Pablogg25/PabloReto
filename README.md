@@ -47,7 +47,7 @@ El sistema veterinario incluye las siguientes funcionalidades principales:
 
     Lo representamos a traves del siguiente diagrama de casos de uso:
 
-    ![alt text](/Entornos/image.png)
+    ![alt text](/Entornos/Diagrama_Casos_Uso.PNG)
 # Contribución
 
 ¿Quieres colaborar en el desarrollo?
