@@ -3,13 +3,13 @@ ________________________________________________________
 
 # Índice
 
-   - [Documentación de la Aplicación de Gestión Veterinaria](/README.md)
+   - [Documentación de la Aplicación de Gestión Veterinaria]()
         - [Indice](#índice)
         - [Introducción](#intruducción)
-        - [Instalación](/README.md)
-        - [Uso](/README.md)
-        - [Contribución](/README.md)
-        - [Subvención](/README.md)
+        - [Instalación](#instalación)
+        - [Uso](#uso)
+        - [Contribución](#contribución)
+        - [Subvención](#subvención)
 
 # Intruducción
 El Sistema de Gestión Veterinaria desarrollado por el alumnado del **IES Miguel Herrero** permite a pacientes, médicos y administradores gestionar las operaciones básicas de un centro veterinario de forma segura y eficiente.
